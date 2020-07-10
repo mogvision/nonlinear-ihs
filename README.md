@@ -1,5 +1,5 @@
 # Nonlinear IHS (NLIHS)
-![](files/preview.png)
+![](files/preview.PNG)
 
 
 

@@ -1,5 +1,5 @@
 # Nonlinear IHS (NLIHS)
-![Alt text](files/nlihs.PNG?raw=true "Title"){:height="250px" width="250px"}
+![Alt text](files/nlihs.PNG?raw=true "Title" height="24" width="48")
 
 Paper [NL-IHS.pdf](files/Ghahremani_LGRS.2016.2597271.pdf)
 

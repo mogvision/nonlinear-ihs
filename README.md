@@ -9,7 +9,7 @@
 
 
 
-![very good|512x397](files/pdf.png)
+![very good|50x100](files/pdf.png)
 
 
 

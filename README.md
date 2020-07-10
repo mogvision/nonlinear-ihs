@@ -1,8 +1,8 @@
 # Nonlinear IHS (NLIHS)
 
-| [NL-IHS.pdf](files/Ghahremani_LGRS.2016.2597271.pdf)  | [NL-IHS.pdf](files/Ghahremani_LGRS.2016.2597271.pdf)      |
+| [NL-IHS](files/Ghahremani_LGRS.2016.2597271.pdf)  | [NL-IHS.pdf](files/Ghahremani_LGRS.2016.2597271.pdf)      |
 |------------|-------------|
-| ![Alt text](files/pdf.png?raw=true) | <img src="https://mk0jobadderjftub56m0.kinstacdn.com/wp-content/uploads/stackoverflow.com-300.jpg" width="250">
+| ![Alt text](files/pdf.png?raw=true| width=25) | <img src="https://mk0jobadderjftub56m0.kinstacdn.com/wp-content/uploads/stackoverflow.com-300.jpg" width="250">
 
 
 

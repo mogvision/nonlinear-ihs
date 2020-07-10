@@ -2,7 +2,7 @@
 
 | [NL-IHS](files/Ghahremani_LGRS.2016.2597271.pdf)  | [NL-IHS.pdf](files/Ghahremani_LGRS.2016.2597271.pdf)      |
 |------------|-------------|
-| ![](files/pdf.png) | <img src="https://mk0jobadderjftub56m0.kinstacdn.com/wp-content/uploads/stackoverflow.com-300.jpg" width="250">
+| ![](files/pdf.png=250x250) | <img src="https://mk0jobadderjftub56m0.kinstacdn.com/wp-content/uploads/stackoverflow.com-300.jpg" width="250">
 
 
 

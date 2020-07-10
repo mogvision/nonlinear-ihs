@@ -2,7 +2,7 @@
 
 | [NL-IHS](files/Ghahremani_LGRS.2016.2597271.pdf)  | [NL-IHS](files/Ghahremani_LGRS.2016.2597271.pdf)      |
 |------------|-------------|
-| ![](files/pdf.PNG) | ![](files/ppt.PNG)
+| ![](files/pdf.png) | ![](files/ppt.png)
 
 
 

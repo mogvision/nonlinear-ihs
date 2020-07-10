@@ -7,8 +7,7 @@
 
 
 
-![very good|100x200,20%](files/pdf.png)
-
+![very good |690x473,20%](files/pdf.png)
 
 
 
